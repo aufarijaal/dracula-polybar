@@ -11,7 +11,7 @@ This Polybar setup is a modified version from one of Polybar Themes collection b
 * For Openweather modules : $CITY , $KEY. go [here](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-detailed), or [here](https://forum.archlabslinux.com/t/polybar-weather/1357/8) for more information
 
 ## How to use
-**How to use :** These are just simple config files, to use these themes, clone this *repo* and copy all the config files to *$HOME/.config/polybar*
+These are just simple config files, to use these themes, clone this *repo* and copy all the config files to *$HOME/.config/polybar*
 + Make sure you've installed the required fonts or you'll face *Dropping character* issue.
 + Don't change the path of scripts or they won't work.
 
